@@ -1,1 +1,1 @@
-projeto receitas, habilidades: dominio de HTML básico
+projeto receitas, habilidades: domínio de HTML básico
